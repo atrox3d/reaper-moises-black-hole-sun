@@ -1,0 +1,421 @@
+<REAPER_PROJECT 0.1 "6.68/win64" 1668587561
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 52
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 6
+  ZOOM 9.13579078940042 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 -1 0 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {C90F2E02-E1AD-4256-915E-0BCFEDD406A3}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {00585BE8-7A48-4F05-96E4-0963DA99A99F}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {67968556-93FC-47B2-92E9-0FB34CA02DD3}
+    NAME How-To-Play-Black-Hole-Sun-By-Soundgarden-Note-For-Note
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {67968556-93FC-47B2-92E9-0FB34CA02DD3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 333.949
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {CA1D3C8B-568D-4951-B1DD-580C86F92A18}
+      IID 7
+      NAME How-To-Play-Black-Hole-Sun-By-Soundgarden-Note-For-Note.mkv
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D88AD98D-BCF4-49CD-BE60-5D8E616F9FFB}
+      <SOURCE VIDEO
+        FILE "video-in\How-To-Play-Black-Hole-Sun-By-Soundgarden-Note-For-Note.mkv"
+      >
+    >
+  >
+  <TRACK {5A41EC8D-A4B3-4748-BD85-F7B1A89E1548}
+    NAME Soundgarden-Black-Hole-Sun-Drum-Cover
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5A41EC8D-A4B3-4748-BD85-F7B1A89E1548}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 317.766
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4108D38F-CC07-4275-843E-FD8DDC65A58E}
+      IID 1
+      NAME Soundgarden-Black-Hole-Sun-Drum-Cover.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4DFF64FB-1140-4DD9-845B-A31BD3910FAC}
+      <SOURCE VIDEO
+        FILE "video-in\Soundgarden-Black-Hole-Sun-Drum-Cover.mp4"
+      >
+    >
+  >
+  <TRACK {490924B4-3D62-421A-B565-1523307DE226}
+    NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-metronome-Ab major-104bpm"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {490924B4-3D62-421A-B565-1523307DE226}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 60
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A5A2C68E-39DC-43B2-A1A9-14E8426AA205}
+      IID 2
+      NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-metronome-Ab major-104bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95EE42A0-197F-415A-8E77-BDF424EF2235}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Soundgarden-Black-Hole-Sun-Drum-Cover-metronome-Ab major-104bpm.m4a"
+      >
+    >
+  >
+  <TRACK {D40FF02B-BB69-4F50-9429-BF68594F18F4}
+    NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-drums-Ab major-104bpm"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D40FF02B-BB69-4F50-9429-BF68594F18F4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 300
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9FA7B4DA-9B92-4896-A44A-210D95E8680B}
+      IID 3
+      NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-drums-Ab major-104bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {54210D47-D987-4039-94F3-5C1953D57591}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Soundgarden-Black-Hole-Sun-Drum-Cover-drums-Ab major-104bpm.m4a"
+      >
+    >
+  >
+  <TRACK {F095DB66-9F5C-4B07-9E58-39312AC3E856}
+    NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-bass-Ab major-104bpm"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F095DB66-9F5C-4B07-9E58-39312AC3E856}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 300
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3D3A003-7F1C-45D6-91E1-0C9EE55710A9}
+      IID 4
+      NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-bass-Ab major-104bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D5642CD-BC2D-4EE5-8C80-CB9D34FC0232}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Soundgarden-Black-Hole-Sun-Drum-Cover-bass-Ab major-104bpm.m4a"
+      >
+    >
+  >
+  <TRACK {3EB5DD7D-45FF-4F0B-8CD0-B525E0031657}
+    NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-other-Ab major-104bpm"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3EB5DD7D-45FF-4F0B-8CD0-B525E0031657}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 300
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9AC07A82-30E1-4C76-92E8-4DD6CE00313C}
+      IID 5
+      NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-other-Ab major-104bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {275D54B6-67B0-4731-94B6-ACED248CC509}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Soundgarden-Black-Hole-Sun-Drum-Cover-other-Ab major-104bpm.m4a"
+      >
+    >
+  >
+  <TRACK {4EA17824-0A5A-4281-966E-F6F9F160F20A}
+    NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-vocals-Ab major-104bpm"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4EA17824-0A5A-4281-966E-F6F9F160F20A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 300
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65322ACB-98CC-45AA-9AFD-68D53DD7B12D}
+      IID 6
+      NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-vocals-Ab major-104bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC0A2DC6-A035-472F-90B8-0640545769AD}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Soundgarden-Black-Hole-Sun-Drum-Cover-vocals-Ab major-104bpm.m4a"
+      >
+    >
+  >
+>
