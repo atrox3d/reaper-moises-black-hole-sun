@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1668588085
+<REAPER_PROJECT 0.1 "6.68/win64" 1668588800
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,8 +16,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 64.45307692307439
-  ZOOM 100 5579 0
+  CURSOR 4.59989144659328
+  ZOOM 71.04526911253222 972 0
   VZOOMEX 10 0
   USE_REC_CFG 0
   RECMODE 1
@@ -95,19 +95,23 @@
     PT 23.200000000000 105.3787047201 1
     PT 32.310000000000 104.0000000000 1
     PT 39.233076923077 105.0681932985 1
-    PT 48.370000000000 104.8034934498 1
-    PT 57.530000000000 104.0000000000 1
-    PT 64.453076923077 104.0000000000 1 0 1
+    PT 48.370000000000 105.2631578947 1
+    PT 57.490000000000 105.7268722467 1
+    PT 59.760000000000 104.0000000000 1
+    PT 64.375384615385 105.3460889139 1
+    PT 71.210000000000 107.1428571429 1
+    PT 73.450000000000 105.4945054945 1
+    PT 78.000000000000 104.0000000000 1 0 1
   >
   <PROJBAY
   >
-  <TRACK {67968556-93FC-47B2-92E9-0FB34CA02DD3}
-    NAME How-To-Play-Black-Hole-Sun-By-Soundgarden-Note-For-Note
+  <TRACK {D40FF02B-BB69-4F50-9429-BF68594F18F4}
+    NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-drums-Ab major-104bpm"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -120,77 +124,31 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {67968556-93FC-47B2-92E9-0FB34CA02DD3}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 5.2220225869277
-      SNAPOFFS 0
-      LENGTH 323.949
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {CA1D3C8B-568D-4951-B1DD-580C86F92A18}
-      IID 7
-      NAME How-To-Play-Black-Hole-Sun-By-Soundgarden-Note-For-Note.mkv
-      VOLPAN 1 0 1 -1
-      SOFFS 10
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D88AD98D-BCF4-49CD-BE60-5D8E616F9FFB}
-      <SOURCE VIDEO
-        FILE "video-in\How-To-Play-Black-Hole-Sun-By-Soundgarden-Note-For-Note.mkv"
-      >
-    >
-  >
-  <TRACK {490924B4-3D62-421A-B565-1523307DE226}
-    NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-metronome-Ab major-104bpm"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {490924B4-3D62-421A-B565-1523307DE226}
+    TRACKID {D40FF02B-BB69-4F50-9429-BF68594F18F4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
       POSITION 6
       SNAPOFFS 0
-      LENGTH 60
+      LENGTH 300
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A5A2C68E-39DC-43B2-A1A9-14E8426AA205}
-      IID 2
-      NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-metronome-Ab major-104bpm.m4a"
+      IGUID {9FA7B4DA-9B92-4896-A44A-210D95E8680B}
+      IID 3
+      NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-drums-Ab major-104bpm.m4a"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {95EE42A0-197F-415A-8E77-BDF424EF2235}
+      GUID {54210D47-D987-4039-94F3-5C1953D57591}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "audio-in\Soundgarden-Black-Hole-Sun-Drum-Cover-metronome-Ab major-104bpm.m4a"
+        FILE "audio-in\Soundgarden-Black-Hole-Sun-Drum-Cover-drums-Ab major-104bpm.m4a"
       >
     >
   >
@@ -200,7 +158,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -240,8 +198,8 @@
       >
     >
   >
-  <TRACK {D40FF02B-BB69-4F50-9429-BF68594F18F4}
-    NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-drums-Ab major-104bpm"
+  <TRACK {67968556-93FC-47B2-92E9-0FB34CA02DD3}
+    NAME How-To-Play-Black-Hole-Sun-By-Soundgarden-Note-For-Note
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -259,31 +217,77 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {D40FF02B-BB69-4F50-9429-BF68594F18F4}
+    TRACKID {67968556-93FC-47B2-92E9-0FB34CA02DD3}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 6
+      POSITION 5.2220225869277
       SNAPOFFS 0
-      LENGTH 300
+      LENGTH 323.949
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9FA7B4DA-9B92-4896-A44A-210D95E8680B}
-      IID 3
-      NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-drums-Ab major-104bpm.m4a"
+      IGUID {CA1D3C8B-568D-4951-B1DD-580C86F92A18}
+      IID 7
+      NAME How-To-Play-Black-Hole-Sun-By-Soundgarden-Note-For-Note.mkv
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 10
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {54210D47-D987-4039-94F3-5C1953D57591}
+      GUID {D88AD98D-BCF4-49CD-BE60-5D8E616F9FFB}
+      <SOURCE VIDEO
+        FILE "video-in\How-To-Play-Black-Hole-Sun-By-Soundgarden-Note-For-Note.mkv"
+      >
+    >
+  >
+  <TRACK {490924B4-3D62-421A-B565-1523307DE226}
+    NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-metronome-Ab major-104bpm"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {490924B4-3D62-421A-B565-1523307DE226}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6.32485073906576
+      SNAPOFFS 0
+      LENGTH 58.29514926093417
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A5A2C68E-39DC-43B2-A1A9-14E8426AA205}
+      IID 2
+      NAME "Soundgarden-Black-Hole-Sun-Drum-Cover-metronome-Ab major-104bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.32485073906576
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95EE42A0-197F-415A-8E77-BDF424EF2235}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "audio-in\Soundgarden-Black-Hole-Sun-Drum-Cover-drums-Ab major-104bpm.m4a"
+        FILE "audio-in\Soundgarden-Black-Hole-Sun-Drum-Cover-metronome-Ab major-104bpm.m4a"
       >
     >
   >
